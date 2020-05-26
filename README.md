@@ -12,4 +12,4 @@ Once this is done, you will be able to import any modules you have installed wit
 
 An example of how to do this where cv2 (opencv-python) has been pipx installed:
 
-cv2 = cv2 = PipxImport('cv2')
+cv2 = PipxImport('cv2')
