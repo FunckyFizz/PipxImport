@@ -4,7 +4,7 @@ The intention of this project is to be able to install and use isolated modules,
 
 Pull requests welcome (and appreciated).
 
-This module has only so far been tested on one computer running Pop!_OS linux (Ubuntu compatible).
+This module is cross compatible with both Linux and Windows but has only been tested on one machine and currently the code needs modifying to import anything other than OpenCV.
 
 To use this module put the file in the same directory as your script and type the command "from PipxImport import *"
 
