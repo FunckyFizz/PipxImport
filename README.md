@@ -7,7 +7,7 @@ Pull requests welcome (and appreciated).
 
 This module is cross-compatible with both Linux and Windows but has only been tested on one machine for each OS.
 
-To use this module put the file in the same directory as your script and type the command  `from PipxImport import *`
+To use this module, put the file in the same directory as your script and type the command  `from PipxImport import *`
 
 Once this is done, you will be able to import any modules you have installed with pipx.<br/><br/>
 
